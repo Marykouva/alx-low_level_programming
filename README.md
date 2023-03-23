@@ -1,2 +1,2 @@
-#!/bib/bash
+#!/bin/bash
 echo "low level programming"
